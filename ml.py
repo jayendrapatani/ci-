@@ -5,8 +5,9 @@ def add(a, b):
 def sub(a, b):
     return a - b
 
-result1= add(2, 3)
-result2= sub(2, 55)
+
+result1 = add(2, 3)
+result2 = sub(2, 55)
 
 print(result1)
 print(result2)
